@@ -11,3 +11,8 @@ Prof Jy-yong Sohn 교수님의 INTRODUCTION TO OPTIMIZATION FOR DATA SCIENCE (ST
 5. LP Relaxation [링크](https://github.com/a2ran/cvxopt/blob/main/5.%20LP%20Relaxation.ipynb)
 6. Algorithms for LP [링크](https://github.com/a2ran/cvxopt/blob/main/6%2C%20Algorithms%20for%20LP.ipynb)
 7. Least Squares [링크](https://github.com/a2ran/cvxopt/blob/main/7.%20Least%20Squares.ipynb)
+8. Quadratic Program [링크](https://github.com/a2ran/cvxopt/blob/main/8.%20Quadratic%20Program.ipynb)
+9. Second-Order Cone Program [링크](https://github.com/a2ran/cvxopt/blob/main/9.%20Second-Order%20Cone%20Program.ipynb)
+10. Semi Definite Program [링크](https://github.com/a2ran/cvxopt/blob/main/_10.%20Semi-Definite%20Program.ipynb)
+11. SDP Relaxation [링크](https://github.com/a2ran/cvxopt/blob/main/_11.%20SDP%20Relaxation.ipynb)
+12. Strong Duality [링크](https://github.com/a2ran/cvxopt/blob/main/_12.%20Strong%20Duality.ipynb)

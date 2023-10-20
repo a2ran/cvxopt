@@ -16,3 +16,9 @@ Prof Jy-yong Sohn 교수님의 INTRODUCTION TO OPTIMIZATION FOR DATA SCIENCE (ST
 10. Semi Definite Program [링크](https://github.com/a2ran/cvxopt/blob/main/_10.%20Semi-Definite%20Program.ipynb)
 11. SDP Relaxation [링크](https://github.com/a2ran/cvxopt/blob/main/_11.%20SDP%20Relaxation.ipynb)
 12. Strong Duality [링크](https://github.com/a2ran/cvxopt/blob/main/_12.%20Strong%20Duality.ipynb)
+
+### 예제
+
+1. Least Square Convexity and Gradients [링크](https://github.com/a2ran/cvxopt/blob/main/problems/1.%20Least%20Square%20Convexity%20and%20Gradients.ipynb)
+2. Convex Sets [링크](https://github.com/a2ran/cvxopt/blob/main/problems/2.%20Convex%20Sets.ipynb)
+3. Composition of convex functions [링크](https://github.com/a2ran/cvxopt/blob/main/problems/3.%20Composition%20of%20convex%20functions.ipynb)

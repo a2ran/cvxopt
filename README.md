@@ -22,3 +22,8 @@ Prof Jy-yong Sohn 교수님의 INTRODUCTION TO OPTIMIZATION FOR DATA SCIENCE (ST
 1. Least Square Convexity and Gradients [링크](https://github.com/a2ran/cvxopt/blob/main/problems/1.%20Least%20Square%20Convexity%20and%20Gradients.ipynb)
 2. Convex Sets [링크](https://github.com/a2ran/cvxopt/blob/main/problems/2.%20Convex%20Sets.ipynb)
 3. Composition of convex functions [링크](https://github.com/a2ran/cvxopt/blob/main/problems/3.%20Composition%20of%20convex%20functions.ipynb)
+4. Convexity of Logistic Function [링크](https://github.com/a2ran/cvxopt/blob/main/problems/4.%20Convexity%20of%20Logistic%20Function.ipynb)
+5. First Order Condition for Convexity [링크](https://github.com/a2ran/cvxopt/blob/main/problems/5.%20First%20Order%20Condition%20for%20Convexity.ipynb)
+6. Second Order Condition for Convexity [링크](https://github.com/a2ran/cvxopt/blob/main/problems/6.%20Second%20Order%20Condition%20for%20Convexity.ipynb)
+7. Bipartite Matching Problem [링크](https://github.com/a2ran/cvxopt/blob/main/problems/7.%20Bipartite%20Matching%20Problem.ipynb)
+8. 
